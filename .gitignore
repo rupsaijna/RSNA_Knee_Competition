@@ -1,0 +1,6 @@
+# synced notebook copy pushed to Kaggle (canonical source lives at repo root)
+kaggle/rsna_knee_cpu_baseline.ipynb
+# Kaggle kernel outputs fetched by scripts\sync_kaggle.ps1 pull
+out/
+__pycache__/
+*.pyc
